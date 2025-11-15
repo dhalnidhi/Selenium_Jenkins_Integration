@@ -108,8 +108,8 @@ public class StringEncryptor {
             pwd= decryptString("DHZ30CjbRN8f6SWPLAHggg==");
         else if(user.equals("Shalini"))
             pwd= decryptString("tP0lrn6oLXHMXYN1zp1qXg==");
-        else if(user.equals("Nidhi"))
-            pwd= decryptString("tP0lrn6oLXHMXYN1zp1qXg==");
+        else if(user.equals("nidhi"))
+            pwd= decryptString("5k7ZlLM7WIribxyEQoJ6RQ==");
         return pwd;
 
     }

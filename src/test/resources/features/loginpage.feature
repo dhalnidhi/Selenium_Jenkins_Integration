@@ -5,6 +5,6 @@ Feature: Login page
 
   @loginAsUser @smoke
   Scenario: Login to AutomationExercise Application
-    Given I am logged into application with user "Amit"
+    Given I am logged into application with user "nidhi"
     Then I should be logged in successfully.
 

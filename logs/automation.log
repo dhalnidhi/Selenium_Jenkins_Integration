@@ -1,0 +1,51 @@
+2025-11-09 20:39:02,601 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:39:02,761 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:39:02,762 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:39:09,603 [INFO ] Log:28 - Screenshot attached for failed scenario: Verify Total amount should match quantity multiply by price
+2025-11-09 20:39:14,963 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:39:14,965 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:39:14,965 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:39:20,628 [INFO ] Log:28 - Screenshot attached for failed scenario: Add to cart - first item
+2025-11-09 20:39:26,917 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:39:26,917 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:39:26,918 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:39:31,029 [INFO ] Log:28 - Screenshot attached for failed scenario: Add to cart - first item - failed login
+2025-11-09 20:39:37,833 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:39:37,834 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:39:37,835 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:39:42,688 [INFO ] Log:28 - Screenshot attached for failed scenario: Login to AutomationExercise Application
+2025-11-09 20:52:34,066 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:52:34,084 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:52:34,084 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:52:38,915 [INFO ] Log:28 - Adding first item to the cart.
+2025-11-09 20:52:40,528 [INFO ] Log:28 - Clicking on view cart button..
+2025-11-09 20:58:40,836 [ERROR] Log:36 - Could not take screenshot for failed scenario: java.util.concurrent.TimeoutException
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [05ff2b8a09530d567dd9bef470159b7a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\NIDHID~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53156}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53156/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 05ff2b8a09530d567dd9bef470159b7a
+2025-11-09 20:59:34,582 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:59:34,593 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:59:34,594 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:59:41,080 [INFO ] Log:28 - Adding first item to the cart.
+2025-11-09 20:59:44,209 [INFO ] Log:28 - Clicking on view cart button..
+2025-11-09 20:59:45,655 [INFO ] Log:28 - Getting product price..
+2025-11-09 20:59:45,748 [INFO ] Log:28 - Getting product quantity..
+2025-11-09 20:59:45,852 [INFO ] Log:28 - Getting Total ..
+2025-11-09 20:59:45,945 [INFO ] Log:28 - Product Price: 500
+2025-11-09 20:59:45,946 [INFO ] Log:28 - No of Product added in the cart: 7
+2025-11-09 20:59:45,946 [INFO ] Log:28 - Total Price: 3500
+2025-11-09 20:59:45,948 [INFO ] Log:23 - XXXXXXXXXXXXXXXXXXXXXX             -E-N-D-             XXXXXXXXXXXXXXXXXXXXXX
+2025-11-09 20:59:51,937 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 20:59:51,939 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 20:59:51,940 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 20:59:57,919 [INFO ] Log:28 - Adding first item to the cart.
+2025-11-09 21:00:10,765 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 21:00:10,770 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 21:00:10,771 [INFO ] Log:19 - ****************************************************************************************
+2025-11-09 21:00:16,870 [INFO ] Log:28 - Adding first item to the cart.
+2025-11-09 21:00:35,945 [INFO ] Log:17 - ****************************************************************************************
+2025-11-09 21:00:35,945 [INFO ] Log:18 - $$$$$$$$$$$$$$$$$$$$$      Login Feature Test       $$$$$$$$$$$$$$$$$$$$$$
+2025-11-09 21:00:35,946 [INFO ] Log:19 - ****************************************************************************************
